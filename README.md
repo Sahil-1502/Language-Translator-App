@@ -1,7 +1,6 @@
 # Language-Translator-App
 
-demo - https://firebasestorage.googleapis.com/v0/b/netflix-cab40.appspot.com/o/Language_Translator_Demo.mp4?alt=media&token=63a0af41-d604-42a1-b5e3-48a3516bf723
-
+demo - https://tinyurl.com/5fr33p8x
 Utilizing a powerful combination of Android Studio, XML, Firebase ML Kit, and Java, I have developed an innovative application that enables seamless language translation.
 
 The 'Language Translator Application' allows users to effortlessly translate text from one language to another, catering to diverse communication needs. Whether it's translating written text or using voice input, this application provides a user-friendly and versatile platform for effective communication across language barriers.
